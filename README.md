@@ -1,6 +1,7 @@
-# analysis-template
-# Life expectancy in Israel since 1950
 
+# Life expectancy in Israel since 1950
+In 1950 Israel's life expectancy was 6.6 years above the world average;
+in 2023 the gap was 3.4 years.
 ## Question
 How has life expectancy at birth in Israel changed since 1950,
 compared with the US, the UK and the world average?
