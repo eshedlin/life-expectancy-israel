@@ -3,9 +3,9 @@
 - Source: Our World in Data, Life expectancy at birth
 - URL: https://ourworldindata.org/grapher/life-expectancy
 - License: CC BY 4.0
-- Downloaded: YYYY-MM-DD
+- Downloaded: 2026-11-17
 - File: data/raw/life-expectancy.csv (not tracked by git)
-- Columns: Entity, Year, Period life expectancy at birth
+- Columns: Entity, Code, Year, Life expectancy
 
 ## Note on the 1950s dip
 UN estimates show Israel's life expectancy falling from 69.9 (1950) to 66.3 (1954).
