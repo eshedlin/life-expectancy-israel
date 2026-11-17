@@ -24,6 +24,6 @@ How AI was used in this project, what was kept, what was rejected, and how it wa
 - Asked: rewrite the README for a reader who does not know epidemiology,
   without adding numbers, causes or claims
 - Kept: finding and chart at the top, numbered method, 1950s note moved from data/README
-- Changed: [what you edited in the draft, or "nothing"]
+- Changed: Kept "the world rose much faster" after checking: world +26.8 years vs Israel +12.5.
 - How I checked: compared every number with the script output and the chart;
   looked for added causes and for "not verified" claims turned into facts
