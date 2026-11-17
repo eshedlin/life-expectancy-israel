@@ -12,7 +12,8 @@ Our World in Data, life expectancy at birth. See data/README.md.
 Filter four entities, plot one line per entity, compare the gap over time.
 
 ## Key finding
-To be added.
+In 1950 Israel's life expectancy was 6.6 years above the world average;
+in 2023 the gap was 3.4 years.
 
 ## How to reproduce
 1. Download the CSV described in data/README.md into data/raw
