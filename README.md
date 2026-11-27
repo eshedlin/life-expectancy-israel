@@ -45,3 +45,7 @@ UN estimates show Israel's life expectancy falling from 69.9 (1950) to 66.3 (195
 ## Status
 v0.1: first analysis complete. 
 Next: reproduce in SQL and check the 1950s dip against annual CBS infant mortality data.
+
+## License
+
+Code: MIT, see [LICENSE](LICENSE). Data: Our World in Data, CC BY 4.0, not stored in this repository (see [data/README.md](data/README.md)).
